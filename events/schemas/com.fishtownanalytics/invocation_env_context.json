@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "title": "invocation_env",
+  "description": "DBT invocation environment type",
+  "properties": {
+    "environment": {
+      "type": "string"
+    }
+  }
+}
